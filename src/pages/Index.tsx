@@ -1,7 +1,7 @@
-import { VulnerabilityScanner } from "@/components/VulnerabilityScanner";
+import { VulnerabilityScanner3D } from "@/components/VulnerabilityScanner3D";
 
 const Index = () => {
-  return <VulnerabilityScanner />;
+  return <VulnerabilityScanner3D />;
 };
 
 export default Index;
