@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Security Status Colors
+				critical: 'hsl(var(--critical))',
+				high: 'hsl(var(--high))',
+				medium: 'hsl(var(--medium))',
+				low: 'hsl(var(--low))',
+				info: 'hsl(var(--info))',
+				success: 'hsl(var(--success))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
